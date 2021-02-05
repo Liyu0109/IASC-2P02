@@ -1,7 +1,7 @@
 # IASC-2P02
 # Digital Scholarship Portfolio: Daniel Zhang
 
-![](https://media.istockphoto.com/vectors/hand-icons-vector-id483456558?k=6&m=483456558&s=612x612&w=0&h=Lm1b3EM2bDgkAAIl4TdIqrbRli2qa02gTDUZIVC12fY=)
+![](http://blog.etechcampus.com/wp-content/uploads/2019/02/Digital-Portfolio-01-1-748x350.jpg)
 
 Welcome to my online portfolio for IASC 2P02!
 
