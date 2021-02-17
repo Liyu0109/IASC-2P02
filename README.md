@@ -14,6 +14,7 @@ Explore my interactive study guide [here](2P02_InteractiveStudyGuide_Team_6.html
 Explore my interacgive Geneology here.
 
 # Speculative Fiction
+
 ## [Beauty of second Image]
 
 In 1995, a technology inadvertently swept through society and the social climate changed dramatically. All of this was caused by a small technology application, and it all started with the birth of beauty applications.
