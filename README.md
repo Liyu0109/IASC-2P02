@@ -30,4 +30,4 @@ In 1995, a technology inadvertently swept through society and the social climate
 
 # Interactive Timeline 
 
-zzzzzzzzzzzzzz
+https://docs.google.com/spreadsheets/d/1K4ykqirDUuX81WCl7U_wVVevfVtf5_PvbiC7iKum-JM/edit#gid=0
